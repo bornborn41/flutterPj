@@ -1,0 +1,336 @@
+{
+  "pokemon": [{
+    "id": 1,
+    "num": "001",
+    "name": "Fuchsbau",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/0/07/607-Fuchsbau_woge.gif/revision/latest?cb=20170219183038",
+    "type": [
+      "Fox-like creature"
+    ],
+    "height": "",
+    "weight": "A Fuchsbau (FOOKS-bow; Ger. 'fox hole' or 'burrow') is a fox-like Wesen that first appeared in 'Organ Grinder'.",
+    "candy": "",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ต้นฮอลลี่",
+      "สับปะรด",
+      "เสือ",
+      "ฉลาม"
+    ],
+    "next_evolution": [{
+      "num": "001",
+      "name": "ดาวอังคาร"
+    }]
+  }, {
+    "id": 2,
+    "num": "002",
+    "name": "Fuilcré",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/7/7b/509-Fuilcr%C3%A9_woge.gif/revision/latest?cb=20160213231031",
+    "type": [
+      "Ox-like creature"
+    ],
+    "height": "",
+      "weight": "A Fuilcré (FWIL-krey or FIL-krey; Irish Fuil "blood" + Cré "clay") is an ox-like Wesen that appeared in "Star-Crossed".",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกเดซี",
+      "หงส์",
+      "ปลาแซลมอน",
+      "นกพิราบ"
+    ],
+    "next_evolution": [{
+      "num": "002",
+      "name": "ดาวศุกร์"
+    }]
+  },{
+    "id": 3,
+    "num": "003",
+    "name": "Glühenvolk",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/c/cc/219-Gl%C3%BChenvolk.gif/revision/latest?cb=20150310021327",
+    "type": [
+     "Alien-like creature"
+    ],
+    "height": "",
+    "weight": "A Glühenvolk (GLOO-in-folk; Ger. Glühen "glow" + Volk "people") is an alien-like Wesen that appeared in "Endangered". They are extremely rare, humanoid reptilian creatures with magnificent glowing skin, giving them a very extraterrestrial-like appearance in recent times.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกลิลลี่",
+      "ลิง",
+      "แครอท",
+      "บุษราคัม"
+    ],
+    "next_evolution": [{
+      "num": "003",
+      "name": "ดาวพุธ"
+    }]
+  },{
+    "id": 4,
+    "num": "004",
+    "name": "Hexenbiest (♀)",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/5/53/610-Hexenbiest_woge.gif/revision/latest?cb=20170315193202",
+    "type": [
+      "Witch-like creature"
+    ],
+    "height": " ",
+    "weight": "A Hexenbiest (HEK-sən-beest; Ger. Hexe 'witch' + Biest 'beast') is a witch-like Wesen that resembles a corpse, with visibly decaying flesh. They first appeared in 'Pilot'. The term is reserved for the females.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ต้นหลิว",
+      "เมลอน",
+      "ผักกาดหอม",
+      "ไข่มุก"
+    ],
+    "next_evolution": [{
+      "num": "004",
+      "name": "ดวงจันทร์"
+    }]
+  },{
+    "id": 5,
+    "num": "005",
+    "name": "Zauberbiest (♂)",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/0/04/522-Bonaparte_woges.gif/revision/latest?cb=20160522042304",
+    "type": [
+      "Warlock-like creature"
+    ],
+    "height": "",
+    "weight": "A Zauberbiest (TSOW-bər-beest; Ger. Zauber 'magic' or Zauberer 'wizard' + Biest 'beast') is a warlock-like Wesen. The term is reserved for the males.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกดาวเรือง",
+      "ต้นปาล์ม",
+      "องุ่น",
+      "สิงโต"
+    ],
+    "next_evolution": [{
+      "num": "005",
+      "name": "ดวงอาทิตย์"
+    }]
+  },{
+    "id": 6,
+    "num": "006",
+    "name": "Höllentier",
+    "img": "https://raw.githubusercontent.com/chadaporn29797/tiktry/3cd17c97080e16744982b23cc363d6036959f145/virgo.png",
+    "type": [
+      "Hellhound-like creature"
+    ],
+    "height": "",
+    "weight": "A Höllentier (HØ-lehn-teer; Ger. Hölle 'hell' + Tier 'animal,' or loosely translated, 'beast from hell') is a hellhound-like Wesen that first appeared in 'El Cucuy'.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกลิลลี่",
+      "วอลนัท",
+      "นกแก้ว",
+      "หินโมรา"
+    ],
+    "next_evolution": [{
+      "num": "006",
+      "name": "ดาวพุธ"
+    }]
+  },{
+    "id": 7,
+    "num": "007",
+    "name": "Inugami",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/2/25/517-Inugami_woge.gif/revision/latest?cb=20160416235255",
+    "type": [
+      "Ghost dog-like creature"  
+    ],
+    "height": "",
+    "weight": "An Inugami (ee-noo-GAH-mee; Jap. 犬神 'dog god') is a ghost dog-like Wesen that appeared in 'Inugami'.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกแดฟโฟดิล",
+      "โลมา",
+      "หงส์",
+      "คาร์เนเลียน"
+    ],
+    "next_evolution": [{
+      "num": "007",
+      "name": "ดาวศุกร์"
+    }]
+  },{
+    "id": 8,
+    "num": "008",
+    "name": "Kackenkopf",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/1/1c/512-Kackenkopf_woge.gif/revision/latest?cb=20160313033034",
+    "type": [
+      "Dung beetle-like creature"
+    ],
+    "height": " ",
+    "weight": "A Kackenkopf (KAH-kin-kopf; Ger. 'poop head') is a dung beetle-like Wesen that first appeared in 'Into the Schwarzwald'.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "กระเทียม",
+      "หัวหอม",
+      "ผักกินรากที่มีรสจัด"
+    ],
+    "next_evolution": [{
+      "num": "008",
+      "name": "ดาวพลูโต"
+    }, {
+      "num": "008",
+      "name": "ดาวอังคาร"
+    }]
+  },{
+    "id": 9,
+    "num": "009",
+    "name": "Lebensauger",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/3/3b/Lebensauger_woge.gif/revision/latest?cb=20150906013537",
+    "type": [
+     "Leech-like creature"
+     ],
+    "height": " ",
+    "weight": "A Lebensauger (LAY-bən-sou-gər; Ger. Leben 'life' + Sauger 'sucker') is a leech-like Wesen that first appeared in 'The Hour of Death'.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "หน่อไม้ฝรั่ง",
+      "ผลไม้แห้ง",
+      "เกาลัด",
+      "ถั่วเหลือง"
+    ],
+    "next_evolution": [{
+      "num": "009",
+      "name": "ดาวพฤหัส"
+    }]
+  },{
+    "id": 10,
+    "num": "010",
+    "name": "Luisant-Pêcheur",
+    "img": "https://vignette.wikia.nocookie.net/grimm/images/8/81/508-Luisant-P%C3%AAcheur_woge.gif/revision/latest?cb=20160206065109",
+    "type": [
+      "Otter-like creature"
+    ],
+    "height": "",
+    "weight": "A Luisant-Pêcheur (lw-EE-zah pesh-UR; Fr. luisant 'shiny' + pêcheur 'fisher') is an otter-like Wesen that first appeared in 'Kiss of the Muse'.",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ต้นเอลเดอร์",
+      "ดอกเบอร์ดอค",
+      "ต้นยู",
+      "ต้นวีปปิงวิลโลว์"
+    ],
+    "next_evolution": [{
+      "num": "010",
+      "name": "ดาวเสาร์"
+    }]
+  },{
+    "id": 11,
+    "num": "011",
+    "name": "",
+    "img": "",
+    "type": [
+       ""
+    ],
+    "height": "",
+    "weight": "",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "มะเดื่อ",
+      "แอปเปิล",
+      "มะนาว",
+      "ดอกพีช"
+    ],
+    "next_evolution": [{
+      "num": "011",
+      "name": "ดาวยูเรนัส"
+    },{
+      "num": "011",
+      "name": "ดาวเสาร์"
+    }]
+  },{
+    "id": 12,
+    "num": "012",
+    "name": "",
+    "img": "",
+    "type": [
+      " "
+    ],
+    "height": "",
+    "weight": "",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "ดอกไอริส",
+      "ดอกบัว",
+      "เฟิร์น",
+      "สาหร่ายทะเล"
+    ],
+    "next_evolution": [{
+      "num": "012",
+      "name": "ดาวเนปจูน"
+    },{
+      "num": "012",
+      "name": "ดาวพฤหัส"
+    }]
+  }
+]
+}
